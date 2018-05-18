@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "938226904588",
+    "firebase_url": "https://fir-ex-58b6e.firebaseio.com",
+    "project_id": "fir-ex-58b6e",
+    "storage_bucket": "fir-ex-58b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938226904588:android:5976cbba5bead6e2",
+        "android_client_info": {
+          "package_name": "com.websitesinseattle.firebaseex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938226904588-ucil359m188atj9qlqgi8b0bn8gpr1jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.websitesinseattle.firebaseex",
+            "certificate_hash": "b9266b55aaee07e15a8391385150d41f638090e0"
+          }
+        },
+        {
+          "client_id": "938226904588-r159vp53e4mdd1poiu4mor2akvl80dp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9n1fnowxE1FC2MHmzJdHiZc5PznnfcTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938226904588-r159vp53e4mdd1poiu4mor2akvl80dp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
